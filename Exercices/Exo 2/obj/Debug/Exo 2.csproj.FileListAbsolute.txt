@@ -1,0 +1,8 @@
+C:\Users\2386119\source\repos\Exercices\Exo 2\bin\Debug\Exo 2.exe.config
+C:\Users\2386119\source\repos\Exercices\Exo 2\bin\Debug\Exo 2.exe
+C:\Users\2386119\source\repos\Exercices\Exo 2\bin\Debug\Exo 2.pdb
+C:\Users\2386119\source\repos\Exercices\Exo 2\obj\Debug\Exo 2.csproj.AssemblyReference.cache
+C:\Users\2386119\source\repos\Exercices\Exo 2\obj\Debug\Exo 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2386119\source\repos\Exercices\Exo 2\obj\Debug\Exo 2.csproj.CoreCompileInputs.cache
+C:\Users\2386119\source\repos\Exercices\Exo 2\obj\Debug\Exo 2.exe
+C:\Users\2386119\source\repos\Exercices\Exo 2\obj\Debug\Exo 2.pdb
